@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Alex ",
+      "lastName": "Singa",
+      "email": "alex@gmail.com",
+      "mobile": "87894561240",
+      "salary": "17000"
+    },
+    {
+      "id": 2,
+      "firstName": "Roshan",
+      "lastName": "Patil",
+      "email": "rpatil@gmail.com",
+      "mobile": "8754963214",
+      "salary": "15000"
+    },
+    {
+      "id": 3,
+      "firstName": "Suresh",
+      "lastName": "Patel",
+      "email": "suresh@gmail.com",
+      "mobile": "8361582149",
+      "salary": "10000"
+    },
+    {
+      "id": 4,
+      "firstName": "Ravishankar",
+      "lastName": "Patel",
+      "email": "ravishankar@gmail.com",
+      "mobile": "8976453201",
+      "salary": "12000"
+    },
+    {
+      "id": 5,
+      "firstName": "Uma",
+      "lastName": "Patil",
+      "email": "umapatil@gmail.com",
+      "mobile": "9638527415",
+      "salary": "20000"
+    }
+  ],
+  "signupUser": [
+    {
+      "fullname": "Rahul Kumar Patel",
+      "email": "rahulkumarpatel443@gmail.com",
+      "password": "12345",
+      "mobile": 8879769381,
+      "id": 1
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "fullname": "Roshan",
+      "email": "roshan@gmail.com",
+      "password": "12345",
+      "mobile": 8523697410,
+      "id": 3
+    },
+    {
+      "fullname": "vinod",
+      "email": "vinod@gmail.com",
+      "password": "saipoint12345",
+      "mobile": 8974563521,
+      "id": 4
+    },
+    {
+      "fullname": "Uma Patil",
+      "email": "umapatil@gmail.com",
+      "password": "12345",
+      "mobile": 8529367415,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
